@@ -1,0 +1,30 @@
+body {
+    background-image: url('background.jpg');
+    background-color: #030303;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;}
+h1 {
+    color: #333;
+    font-size: 48px;
+    text-shadow: 2px 2px 4px rgb(253, 253, 253);
+    margin-top: 100px;
+}
+p {
+    color: #fff;
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+}
+
+
+#board {
+    background-color: #333;
+    border-top: 5px solid #00bcd4;
+    border-bottom: 5px solid #00bcd4;
+    margin: 50px auto;
+    width: 800px;
+    height: 600px;
+    position: relative;
+}
